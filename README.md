@@ -69,4 +69,3 @@ http://localhost/rest/api/15478959
 
 ## init
 create mysql database and user who has rights on that database. Run the init.sql script that can be found in the init directory
-# gchost-database-test
